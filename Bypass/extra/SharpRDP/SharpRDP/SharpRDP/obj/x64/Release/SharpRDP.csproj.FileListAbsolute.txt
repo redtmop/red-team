@@ -1,0 +1,9 @@
+C:\tools\SharpRDP\SharpRDP\SharpRDP\bin\x64\Release\SharpRDP.exe.config
+C:\tools\SharpRDP\SharpRDP\SharpRDP\bin\x64\Release\SharpRDP.exe
+C:\tools\SharpRDP\SharpRDP\SharpRDP\bin\x64\Release\AxInterop.MSTSCLib.dll
+C:\tools\SharpRDP\SharpRDP\SharpRDP\obj\x64\Release\SharpRDP.csprojAssemblyReference.cache
+C:\tools\SharpRDP\SharpRDP\SharpRDP\obj\x64\Release\Interop.MSTSCLib.dll
+C:\tools\SharpRDP\SharpRDP\SharpRDP\obj\x64\Release\SharpRDP.csproj.ResolveComReference.cache
+C:\tools\SharpRDP\SharpRDP\SharpRDP\obj\x64\Release\SharpRDP.csproj.CoreCompileInputs.cache
+C:\tools\SharpRDP\SharpRDP\SharpRDP\obj\x64\Release\SharpRDP.csproj.CopyComplete
+C:\tools\SharpRDP\SharpRDP\SharpRDP\obj\x64\Release\SharpRDP.exe

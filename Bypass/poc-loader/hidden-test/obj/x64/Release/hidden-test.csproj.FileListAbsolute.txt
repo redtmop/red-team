@@ -1,0 +1,7 @@
+C:\Users\John\Source\Repos\hidden-test\bin\x64\Release\hidden-test.exe.config
+C:\Users\John\Source\Repos\hidden-test\bin\x64\Release\hidden-test.exe
+C:\Users\John\Source\Repos\hidden-test\bin\x64\Release\hidden-test.pdb
+C:\Users\John\Source\Repos\hidden-test\obj\x64\Release\hidden-test.csproj.CoreCompileInputs.cache
+C:\Users\John\Source\Repos\hidden-test\obj\x64\Release\hidden-test.exe
+C:\Users\John\Source\Repos\hidden-test\obj\x64\Release\hidden-test.pdb
+C:\Users\John\Source\Repos\hidden-test\obj\x64\Release\hidden-test.csprojAssemblyReference.cache

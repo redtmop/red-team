@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "02af4639d7c73b06",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9590aee4244e8a0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "osep-note/Active Directory Exploit/AD Exploitation/Unconstrained Delegation.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db45945b3cad8525",
+    "type": "split",
+    "children": [
+      {
+        "id": "c809c089da7bb87f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f19d9d79d4a6889",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9734a03755402ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "99b837690ee44105",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec3417c7f5717628",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c10418b82768c3f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "osep-note/Active Directory Exploit/AD Exploitation/Unconstrained Delegation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c9590aee4244e8a0",
+  "lastOpenFiles": [
+    "osep-note/Active Directory Exploit/AD Exploitation/Unconstrained Delegation.md",
+    "osep-note/Active Directory Exploit/Domain Reconnaissance/Recon.md",
+    "osep-note/Active Directory Exploit/Domain Reconnaissance/BloodHound.md",
+    "osep-note/AV Bypass/Powershell Shellcode runner & macro.md",
+    "osep-note/AV Bypass/Untitled.md",
+    "osep-note/Active Directory Exploit/MSSQL ATTACKS/Untitled.md",
+    "Pasted image 20210707154253.png",
+    "osep-note/Active Directory Exploit/AD Exploitation/Untitled.md",
+    "osep-note/Active Directory Exploit/Kerberos Abuse.md",
+    "osep-note/Pasted image 20210702235813.png"
+  ]
+}

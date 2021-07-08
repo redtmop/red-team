@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shellcode-runner", "shellcode-runner.csproj", "{15326D42-6908-4757-83DC-1395F7316DE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15326D42-6908-4757-83DC-1395F7316DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15326D42-6908-4757-83DC-1395F7316DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15326D42-6908-4757-83DC-1395F7316DE4}.Debug|x64.ActiveCfg = Debug|x64
+		{15326D42-6908-4757-83DC-1395F7316DE4}.Debug|x64.Build.0 = Debug|x64
+		{15326D42-6908-4757-83DC-1395F7316DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15326D42-6908-4757-83DC-1395F7316DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15326D42-6908-4757-83DC-1395F7316DE4}.Release|x64.ActiveCfg = Release|x64
+		{15326D42-6908-4757-83DC-1395F7316DE4}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87215A58-D544-44CB-B656-2C4BE800CAA1}
+	EndGlobalSection
+EndGlobal

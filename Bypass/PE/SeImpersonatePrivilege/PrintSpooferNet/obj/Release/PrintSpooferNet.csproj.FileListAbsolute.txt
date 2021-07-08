@@ -1,0 +1,14 @@
+C:\Users\John\Source\Repos\PrintSpooferNet\bin\Release\PrintSpooferNet.exe.config
+C:\Users\John\Source\Repos\PrintSpooferNet\bin\Release\PrintSpooferNet.exe
+C:\Users\John\Source\Repos\PrintSpooferNet\bin\Release\PrintSpooferNet.pdb
+C:\Users\John\Source\Repos\PrintSpooferNet\obj\Release\PrintSpooferNet.csprojAssemblyReference.cache
+C:\Users\John\Source\Repos\PrintSpooferNet\obj\Release\PrintSpooferNet.csproj.CoreCompileInputs.cache
+C:\Users\John\Source\Repos\PrintSpooferNet\obj\Release\PrintSpooferNet.exe
+C:\Users\John\Source\Repos\PrintSpooferNet\obj\Release\PrintSpooferNet.pdb
+C:\Users\John\Documents\GitHub\Bypass\SeImpersonatePrivilege\PrintSpooferNet\obj\Release\PrintSpooferNet.csprojAssemblyReference.cache
+C:\Users\John\Documents\GitHub\Bypass\SeImpersonatePrivilege\PrintSpooferNet\obj\Release\PrintSpooferNet.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\GitHub\Bypass\SeImpersonatePrivilege\PrintSpooferNet\obj\Release\PrintSpooferNet.exe
+C:\Users\John\Documents\GitHub\Bypass\SeImpersonatePrivilege\PrintSpooferNet\obj\Release\PrintSpooferNet.pdb
+C:\Users\John\Documents\GitHub\Bypass\SeImpersonatePrivilege\PrintSpooferNet\bin\Release\PrintSpooferNet.exe.config
+C:\Users\John\Documents\GitHub\Bypass\SeImpersonatePrivilege\PrintSpooferNet\bin\Release\PrintSpooferNet.exe
+C:\Users\John\Documents\GitHub\Bypass\SeImpersonatePrivilege\PrintSpooferNet\bin\Release\PrintSpooferNet.pdb

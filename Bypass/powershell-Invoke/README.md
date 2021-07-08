@@ -1,0 +1,4 @@
+- Invoke-RPEI -> Invoke-ReflectivePEInjection
+- Invoke-Mimikatz -> 17763 server
+- Invoke-Mimikatz-old -> 17763 client
+- Invoke-hiddentest -> shell

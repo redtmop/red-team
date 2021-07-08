@@ -1,0 +1,7 @@
+C:\Users\John\Source\Repos\shellcode-runner\bin\Debug\shellcode-runner.exe.config
+C:\Users\John\Source\Repos\shellcode-runner\bin\Debug\shellcode-runner.exe
+C:\Users\John\Source\Repos\shellcode-runner\bin\Debug\shellcode-runner.pdb
+C:\Users\John\Source\Repos\shellcode-runner\obj\Debug\shellcode-runner.csprojAssemblyReference.cache
+C:\Users\John\Source\Repos\shellcode-runner\obj\Debug\shellcode-runner.csproj.CoreCompileInputs.cache
+C:\Users\John\Source\Repos\shellcode-runner\obj\Debug\shellcode-runner.exe
+C:\Users\John\Source\Repos\shellcode-runner\obj\Debug\shellcode-runner.pdb
